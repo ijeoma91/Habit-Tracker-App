@@ -348,3 +348,13 @@ next to an interface will pop up with a list of all your daily habits. There you
 Let's compare the two outputs.
 
 ![image](https://user-images.githubusercontent.com/92203208/152689281-402e5239-5caf-4706-868e-2d7279fe0730.png)
+
+
+
+## Final Phase.
+##### App Testing....
+To test the app. With our Command-Line active, type *test_user.py
+
+Below is the sample test
+![image](https://user-images.githubusercontent.com/92203208/152696532-788afb42-2b4e-41a9-81b5-55de31d9773f.png)
+
